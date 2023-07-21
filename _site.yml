@@ -1,0 +1,16 @@
+name: "Workshop on Spatial Data"
+navbar:
+  title: "Workshop on Spatial Data"
+  left:
+    - text: "Program"
+      href: program.html
+    - text: "Registration"
+      href: registration.html
+
+output_dir: "."
+output:
+  html_document:
+    theme: yeti
+    highlight: textmate
+#    include:
+#      after_body: _footer.html

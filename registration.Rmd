@@ -1,0 +1,53 @@
+---
+title: "Inscription"
+output:
+  html_document:
+    fig_width: 1
+---
+
+
+
+
+
+----
+
+
+<!---
+
+<img src="images/pavillon_Indochine.jpg" align="right" width="440px"/>
+
+
+<br clear="left"/>
+
+![](images/pavillon_indo_modif.jpg)
+--->
+
+<style>
+figure {
+  text-align: center;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+</style>
+
+<style>
+  .rounded-image {
+    border-radius: 10px; /* Ajoute des coins arrondis de 10 pixels */
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.4); /* Ajoute une ombre de 2 pixels de hauteur et 4 pixels de flou */
+  }
+</style>
+
+<p>
+<div class="row">
+<figure>
+  <img alt="Pavillon picture" src="images/pavillon_indo_modif.jpg" class="rounded-image"/>
+  <figcaption> <i>Jardin tropical René-Dumont, January 2022 </i> </figcaption>
+</figure>
+</div>
+</p>
+
+
+FORMULAIRE INSCRIPTION
+

@@ -1,2 +1,1 @@
-# spatialdataworkshop.github.io
-Website spatialdataworkshop.github.io
+# Website of Jean-Baptiste Guiffard
