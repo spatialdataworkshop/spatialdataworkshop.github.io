@@ -1,12 +1,9 @@
 name: "Workshop on Spatial Data"
 navbar:
-  title: "Workshop on Spatial Data"
+  title: "Journée d'études sur les données spatiales"
   left:
-    - text: "Program"
+    - text: "Programme"
       href: program.html
-    - text: "Registration"
-      href: registration.html
-
 output_dir: "."
 output:
   html_document:

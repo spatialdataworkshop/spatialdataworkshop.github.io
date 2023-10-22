@@ -1,9 +1,19 @@
 ---
-title: "Workshop sur les données spatiales"
+title: ""
 output:
   html_document:
     fig_width: 1
 ---
+
+<style>
+figure {
+  text-align: center;
+}
+
+figcaption {
+  margin-top: 10px;
+}
+</style>
 
 <style>
   .rounded-image {
@@ -12,33 +22,44 @@ output:
   }
 </style>
 
-
-
-<!---
-<img src="images/profil_image_vertical.jpg" align="right" width="440px"/>
-
-<br clear="left"/>
-
-![](images/profil_image.jpg)
---->
-
-
-WORKSHOP
-
-Test
+<p>
+<div class="row">
+<figure>
+  <img alt="Pavillon picture" src="images/23-114 - Décli num - bandeau mail.png" class="rounded-image"/>
+</figure>
+</div>
+</p>
 
 
 
-<br clear="left"/>
 
-$~$
+
+Nous sommes heureux de vous annoncer la tenue de la première édition de la “Journée d’Etudes sur les Données Spatiales” qui aura lieu le 1er décembre sur le campus dans le Pavillon Indochine du Jardin d'Agronomie Tropicale de Paris - René Dumont, à Nogent-sur-Marne (à 25 min de Châtelet - RER A). 
+
+Cette journée d’étude est à destination des chercheurs, doctorants et étudiants de toutes disciplines souhaitant se former à l’utilisation des données spatiales ou bien utilisant déjà ces données au sein de leurs travaux. Il s’articule autour de trois types de “sessions”: 
+
+- Des **masterclass** où des spécialistes présenteront la manière dont ils utilisent des données spatiales (données mobiles, données satellitaires...) dans leurs travaux ;
+
+- Des **ateliers** de différents niveaux pour échanger autour du traitement et de la représentation des données spatiales, et s’initier à certains logiciels ;
+
+- Une **table ronde** au cours de laquelle des expert.e.s proposeront leurs réflexions autour de l’articulation des logiciels et des bonnes pratiques.
+
+Vous pourrez retrouver toutes les informations utiles sur cette page web : [lien](https://umr-devsoc.pantheonsorbonne.fr/actualite/journee-detudes-donnees-spatiales-nouvelles-sources-nouvelles-perspectives)
+
+
 
 ----
 
 
-**Contact**
+**Détails de l'événement :**
 
-Workplace: 45 bis Avenue de la Belle Gabrielle, 94130, Nogent-sur-Marne, France
+- Date : 1er décembre, de 9h30 à 18h30
+
+- Lieu : Pavillon Indochine, Jardin d'Agronomie Tropicale de Paris - René Dumont, Nogent-sur-Marne (seulement 25 min de Châtelet via RER A).
+
+- Inscription obligatoire en remplissant ce [formulaire](https://docs.google.com/forms/d/e/1FAIpQLSeQSWoivpUfmdYg1afEylqZNydvuOndU73_TGGbj0FYbLYBUA/viewform?usp=sf_link) 
+
+- Déjeuner sur place et offert sur inscription
 
 
 
