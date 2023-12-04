@@ -5,8 +5,6 @@
 # Prise en main de ggplot2
 ## Le package ggplot2
 
-
-#install.packages(c("sf", "dplyr", "ggplot2"))
 library(sf)
 library(dplyr)
 library(ggplot2)
