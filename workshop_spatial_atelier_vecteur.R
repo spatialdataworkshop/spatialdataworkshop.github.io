@@ -47,13 +47,16 @@ iedes_sf
 
 # B: Sections cadastrales
 
+# Télécharger les données : https://cadastre.data.gouv.fr/datasets/cadastre-etalab
+# Pluieurs formats sont proposées, choisir "shapefile'
+
 # lire le fichier : st_read() ou read_sf()
 
-sec19 <- st_read("cadastre_oct2019/sections.shp") 
+sec19 <- st_read("sections.shp") 
 class(sec19)
 head(sec19)
 
-sec19_tbl <- read_sf("cadastre_oct2019/sections.shp")
+sec19_tbl <- read_sf("sections.shp")
 class(sec19_tbl)
 head(sec19_tbl)
 
@@ -121,6 +124,8 @@ plot(vdm_clean[["geometry"]])
 
 library(geojsonsf)
 # GeoJSON to Simple Feature Converter
+
+# Télécharger données ICPE : https://www.data.gouv.fr/fr/datasets/base-des-installations-classees-icpe/
 
 pprt_control <- geojson_sf("ICPE/icpe.geojson") 
 
